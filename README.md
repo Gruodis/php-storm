@@ -1,8 +1,11 @@
 # PhpStorm
 
-## 1 UPDATE
+## GoGo SpeedRacer
 
-Watch for changes:
+Steps to start:
 ```bash
-npm run watch
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npm install --save-dev webpack
+npm install --save-dev webpack-cli
 ```
