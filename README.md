@@ -1,4 +1,8 @@
-# PHP-storm
+# PhpStorm
 
 ## 1 UPDATE
-## 1 Webpack
+
+Watch for changes:
+```bash
+npm run watch
+```
